@@ -12,5 +12,4 @@ Willkommen, Operator. Dies ist die zentrale Anlaufstelle zur Dekodierung der pla
 
 ---
 
-## 🛰 System-Status
-**Knotenpunkt:** Saarlouis (U3) | **Frequenz:** 117Hz | **Status:** Synchronisiert
+
