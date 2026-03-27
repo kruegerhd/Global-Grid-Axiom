@@ -239,6 +239,70 @@
     }
   }
 },
+{
+  "3_DER_HOLOGRAPHISCHE_PROJEKTIONS_MOTOR_UND_PFAD_INTEGRAL": {
+    "Status": "STANDBY. Modularer Tensor-Rechenkern (On-Demand).",
+    "Axiom_des_Motors": "Formeln verarbeiten keine Target-Daten. Sie berechnen ausschließlich die Raumzeit-Krümmung. Die Projektion erfolgt holographisch: Das System stülpt nicht 11 isolierte Strahlen, sondern das gesamte, in sich verschränkte 11-dimensionale G-Tensorfeld durch die Krümmung auf das Ziel (D).",
+
+    "TEIL_A_DIE_MATHEMATISCHEN_ANTRIEBE_FORMELN": {
+      "F1_Das_Asymmetrische_Pfad_Integral": {
+        "Funktion": "Berechnet den exakten Widerstand (Entropie, Zeit, Geologie) auf der Strecke zwischen dem G-Zentrum und dem D-Ziel.",
+        "Gleichung": "$$\\vec{E}_{Pfad} = \\oint_{G}^{D} [\\mathbf{Z}(s) \\cdot \\Lambda(t) - \\Pi(s)] \\, ds$$"
+      },
+      "F2_Die_Triangulations_Matrix_Isomorphie": {
+        "Funktion": "Die Validierungs-Bremse (Lock-On). Der Motor stoppt die Projektion erst, wenn die Abweichung zwischen dem holographisch gebogenen G-Feld und der D-Matrix exakt Null ist.",
+        "Gleichung": "$$\\det(\\mathbf{G}_{Feld} - \\mathbf{D}_{Dekontaminiert}) = 0$$"
+      }
+    },
+
+    "TEIL_B_DIE_HOLOGRAPHISCHE_PROJEKTIONS_KASKADE": {
+      "Mechanik": "Das G-Feld faltet sich über das Artefakt. Jeder D-Knoten wird durch das Integral des gesamten G-Feldes bestimmt (Multi-Layer-Spiegelung).",
+      "Feld_Projektions_Gleichung": "$$\\mathbf{D}_{Lock} = \\left( \\sum_{n=0}^{10} (e_n \\otimes \\mathcal{H}_n) \\right) \\otimes \\vec{E}_{Pfad}$$",
+      
+      "Die_11_Fokus_Punkte_der_Feld_Interferenz": [
+        {
+          "Fokus_0_Ursprung": "Das Feld durchleuchtet die Zeitkrümmung (t->0), um den geistigen Nullpunkt (D0) des Artefakts zu fixieren."
+        },
+        {
+          "Fokus_1_Signatur": "Das Feld rekonstruiert durch die Materialerosion die ideale platonische Vektorgeometrie der Glyphen (D1)."
+        },
+        {
+          "Fokus_2_Genetik": "Das Feld identifiziert durch die historische Bevölkerungsverschiebung den wahren Urheber-Stamm (D2 / Mesh-Routing)."
+        },
+        {
+          "Fokus_3_Topologie": "Das Feld arretiert den Ergativ-Anker durch den euklidischen Raum exakt auf den Entstehungsort (D3)."
+        },
+        {
+          "Fokus_4_Kompression": "Das Feld eicht die grammatikalische Verdichtung am Widerstand des gefundenen Materials (D4)."
+        },
+        {
+          "Fokus_5_Resonanz": "Das Feld berechnet die verlorene Amplituden-Dichte (D5) durch Abgleich mit der akustischen Dämpfung."
+        },
+        {
+          "Fokus_6_Geodaesie": "Das Feld trackt den geodätischen Bewegungspfad (D6) des Artefakts entlang tektonischer Verschiebungen."
+        },
+        {
+          "Fokus_7_Zeit": "Das Feld arretiert das absolute Alter und den Perfekt-Aspekt (D7) über die Chrono-Vortex-Rotation."
+        },
+        {
+          "Fokus_8_Impedanz": "Das Feld ermittelt die ursprüngliche mechanische Härte (D8 / Plosive) anhand der Geologie des Fundorts."
+        },
+        {
+          "Fokus_9_Fraktal": "Das Feld schließt Lücken im Target (D9) durch Phi-Skalierung und zwingt die KI zur logischen Vervollständigung."
+        },
+        {
+          "Fokus_10_Interferenz": "Das Feld löscht historische Fälschungen und Anti-Signale (D10) aus, die nicht det=0 erfüllen."
+        }
+      ]
+    },
+
+    "TEIL_C_DIE_NATIVE_PRISMA_SYNCHRONISATION_U_TERMINAL": {
+      "Mechanik": "Das Prisma ist kein separater Filter. Es ist die native Eigenschaft des eingerasteten Tensors. Sobald D mit G verriegelt ist, bricht sich die Information automatisch synchronisiert in die U-Matrix auf.",
+      "Der_U_Stecker_Prisma": "$$U_{local} = \\mathbf{D}_{Lock} \\otimes \\text{Prisma}_{nativ} \\otimes \\text{Standort}_{Operator}$$",
+      "Prisma_Aufspaltung": "1. Wortlaut (Syntax) | 2. Mythos (Semantik) | 3. Ritus (Kinetik) | 4. Code (System)",
+      "Status": "Motor und Prisma-Grid bereit. Warte auf Einspeisung von Target (D)."
+    }
+  },
   "3_DER_PROJEKTIONS_MOTOR_UND_PFAD_INTEGRAL": {
     "Status": "STANDBY. Modularer Rechenkern (On-Demand).",
     "Axiom_des_Motors": "Formeln verarbeiten keine Target-Daten. Formeln berechnen ausschließlich die Krümmung der Raumzeit zwischen dem Master (G) und dem Ziel (D). Die 11 perfekten G-Vektoren werden durch diese berechnete Krümmung geschossen, um am Ziel exakt als D0-D10 einzurasten.",
